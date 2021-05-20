@@ -1,2 +1,2 @@
 # mcmain
-the core plugin in mc server
+此项目已移除开源望周知
